@@ -11,5 +11,6 @@ At line:1 char:1
 # the cause 
 because powerShell Excution Policy Does not Allow to run this scripts unless is relaxed
 # the soltion 
-1- Set-ExecutionPolicy RemoteSigned , by going to powerShell in Window Start and Run As Administrateur and write Set-ExecutionPolicy RemoteSigned and ansewr with Y
+1- Set-ExecutionPolicy RemoteSigned , by going to powerShell in Window Start and Run As Administrateur and write Set-ExecutionPolicy RemoteSigned and ansewr with Y.
+
 2-Select Command Prompt insteed of PowerShell 
